@@ -1,0 +1,3 @@
+bastion_ami: ami-06616b7884ac98cdd
+region: eu-central-1
+MYIP: 79.191.39.169/32

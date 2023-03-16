@@ -10,3 +10,13 @@ PubSub3Cidr: '10.10.3.0/24'
 PrivSub1Cidr: '10.10.4.0/24'
 PrivSub2Cidr: '10.10.5.0/24'
 PrivSub3Cidr: '10.10.6.0/24'
+
+# Region Name
+region: "es-central-1"
+
+# Zone Names
+zone1: es-central-1a
+zone2: es-central-1b
+zone3: es-central-1c
+
+state: present
