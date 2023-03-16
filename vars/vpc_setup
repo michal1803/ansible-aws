@@ -12,7 +12,7 @@ PrivSub2Cidr: '10.10.5.0/24'
 PrivSub3Cidr: '10.10.6.0/24'
 
 # Region Name
-region: es-central-1
+region: eu-central-1
 
 # Zone Names
 zone1: es-central-1a
