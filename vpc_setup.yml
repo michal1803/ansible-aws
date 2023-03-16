@@ -14,4 +14,4 @@
         dns_hostnames: yes
         tenancy: default
         state: "{{state}}"
-      register: ansible-aws-out
+      register: vpc-out
